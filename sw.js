@@ -1,4 +1,4 @@
-const CACHE_NAME = "monsterjaeger-v1";
+const CACHE_NAME = "monsterjaeger";
 
 self.addEventListener("install", (event) => {
     event.waitUntil(
